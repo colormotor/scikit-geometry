@@ -48,6 +48,12 @@ print(s)
 >>> Segment_2(PointC2(5, 3), PointC2(10, 8))
 ```
 
+## Install
+```
+mamba install "cgal<6"
+pip install -e .
+```
+
 ## Documentation
 
 The docs are hosted on github: [https://scikit-geometry.github.io/scikit-geometry](https://scikit-geometry.github.io/scikit-geometry)
